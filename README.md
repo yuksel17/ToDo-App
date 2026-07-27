@@ -1,5 +1,3 @@
-<img width="755" height="830" alt="Ekran Resmi 2026-07-27 22 57 30" src="https://github.com/user-attachments/assets/64f32d6b-7b91-4acb-b86d-2b649871d7e4" />
-
 # 📝 ToDo App
 
 A simple and modern To-Do application developed with **SwiftUI**.
@@ -21,9 +19,7 @@ A simple and modern To-Do application developed with **SwiftUI**.
 
 ## 📸 Screenshot
 
-<p align="center">
-  <img width="320" alt="ToDo App" src="https://github.com/user-attachments/assets/64f32d6b-7b91-4acb-...">
-</p>
+<img width="755" height="830" alt="Ekran Resmi 2026-07-27 22 57 30" src="https://github.com/user-attachments/assets/64f32d6b-7b91-4acb-b86d-2b649871d7e4" />
 
 ## 🚀 Getting Started
 
